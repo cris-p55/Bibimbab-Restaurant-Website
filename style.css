@@ -1,0 +1,66 @@
+body {
+    background-image: url("./images/background3.jpg");
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 1400px auto;
+    background-color: rgb(17, 17, 17);
+    
+}
+
+h1 {
+    color: black;    
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 1px white;
+}
+
+.container {
+    background-color: white;
+    border: 1px solid black;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin: 0px;
+    height: 60px;
+    width: auto;
+    padding: 0px
+}
+
+.item {
+    text-align: center;
+    background-color: white;
+    display: block; 
+    padding: 5px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 190px;
+}
+
+.item2 {
+    background-color: skyblue;
+    border-radius: 200px;
+    display: block; 
+    padding: 5px;
+    margin-top: 10px;
+    margin-left: 30px;
+    margin-right: auto;
+    width: 190px;
+}
+
+a {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: monospace;
+    text-align: center;
+    color:rgb(31, 31, 31);
+}
+
+img {
+    display: inline-block;
+    position: absolute;
+    padding-left: 0px;
+}
